@@ -1,9 +1,9 @@
-#Este Programa aun no esta finalizazo
+<h1>Este Programa aun no esta finalizazo</h1>
 
 Screen Ubuntu panel es un panel administrativo de Screens de Ubuntu con un sistema de usuarios y screens comodo
 Este programa fue testeado en Ubuntu 22
 
-#Comandos de instalación
+Comandos de instalación
 
 git clone https://github.com/Ramal-g/Screen-Ubuntu-Panel.git
 sudo rm -r /var/www/html
