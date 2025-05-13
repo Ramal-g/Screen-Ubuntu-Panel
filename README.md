@@ -13,5 +13,5 @@ sudo chown -R www-data:www-data /var/www/html<br>
 sudo chown -R 770 /var/www/html<br>
 <br><br>
 
-Usuario por defecto: master
-Contraseña por defecto: master
+Usuario por defecto: <b>master</b> <br>
+Contraseña por defecto: <b>master</b>
